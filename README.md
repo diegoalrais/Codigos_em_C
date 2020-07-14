@@ -6,6 +6,6 @@
 </ol>
 
 <p>
-Mais trabalhos de outras diciplinas veja no blog:
+Mais trabalhos de outras disciplinas veja no blog:
 <a href="https://diegoalrais.webnode.com/aprendiz-de-programacao/">Aprendiz de Programação</a>
 </p>
