@@ -5,5 +5,7 @@
   <li>Empilhamento, Desempilhamento e empilhamento em ordem inversa</li>
 </ol>
 
-<p>Outros trabalhos estão no blog:</p>
-<p><a href="https://diegoalrais.webnode.com/aprendiz-de-programacao/">Aprendiz de Programação</a><p>
+<p>
+Mais trabalhos de outras diciplinas veja no blog:
+<a href="https://diegoalrais.webnode.com/aprendiz-de-programacao/">Aprendiz de Programação</a>
+</p>
