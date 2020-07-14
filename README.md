@@ -6,4 +6,4 @@
 </ol>
 
 <p>Outros trabalhos estão no blog:</p>
-<p><a href="https://www.webnode.com/aprendiz-de-programacao/">Aprendiz de Programação</a><p>
+<p><a href="https://www.diegoalrais.webnode.com/aprendiz-de-programacao/">Aprendiz de Programação</a><p>
